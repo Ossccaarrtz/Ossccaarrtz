@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a Systems Engineering student and currently working as a Full Stack Web Developer Jr. Intern. I'm passionate about building web applications and managing databases to deliver efficient digital solutions.</p>
+<p align="center">I'm a Systems Engineering student and currently working as a Full Stack Web Developer. I'm passionate about building web applications and managing databases to deliver efficient digital solutions.</p>
 
 ###
 
